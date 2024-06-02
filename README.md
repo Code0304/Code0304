@@ -4,7 +4,7 @@
 
 - <b> SIEM </b>
   
-**-  <b>   Wazuh</b>**
+*  <b>   Wazuh</b>
 
 
 <h2>📺 Popular YouTube Videos</h2>
